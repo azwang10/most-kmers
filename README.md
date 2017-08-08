@@ -7,3 +7,5 @@ However, unsure of what the very low 6-mers are or why the line still slopes upw
 Altogether though, I'm pretty suprised that the result was that clear. A success!
 
 The final plot is [6-mers.png](6-mers.png), and the main code is [rank-kmers.py](rank-kmers.py).
+
+![6-mers.png](https://raw.github.com/azwang10/most-kmers/blob/master/6-mers.png)
