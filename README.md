@@ -4,7 +4,7 @@ A program that found all the 6-mers sequences inside the genome of E. coli. It i
 
 However, unsure of what the very low 6-mers are or why the line still slopes upward slightly. A future test may include forward and backwards concensus sequences since the transposons could clearly be backwards. Also, since the genome is circular, really a couple more sequences, like only 5, should be added that span the gap.
 
-Altogether though, I'm pretty suprised that the result was that clear. A success! Also, used a hash table so like I'm almost a pro now.
+Altogether though, I'm pretty suprised that the result was that clear. A success! Also, used a hash table so I'm almost a pro now.
 
 The final plot is [6-mers.png](6-mers.png), and the main code is [rank-kmers.py](rank-kmers.py).
 
