@@ -6,6 +6,6 @@ However, unsure of what the very low 6-mers are or why the line still slopes upw
 
 Altogether though, I'm pretty suprised that the result was that clear. A success! Also, used a hash table so I'm almost a pro now.
 
-The final plot is [6-mers.png](6-mers.png), and the main code is [rank-kmers.py](rank-kmers.py).
+The final plot is [6-mers.png](6-mers.png), and the main code is [rank_kmers.py](rank_kmers.py).
 
 ![6-mers.png](6-mers.png)
