@@ -9,3 +9,5 @@ Altogether though, I'm pretty suprised that the result was that clear. A success
 The final plot is [6-mers.png](6-mers.png), and the main code is [rank-kmers.py](rank-kmers.py).
 
 ![6-mers.png](6-mers.png)
+
+![kmers_in_genes.png](kmers_in_genes.png)
