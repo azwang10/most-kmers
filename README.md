@@ -12,6 +12,6 @@ A similar anaylsis of 6-mers also within E. coli. Sees the correlation between h
 
 Ideally since about 90% of the genome is coding, all sequences should lie along a line with slope 0.9 though the origin. It's pretty clear though that a lot of sequnces are below this line. They might be cis-binding regions that would be block the RNAP during transcription, and therefore, there should be less of them. Also around (1000, 750), the green data point corresonds to 'TATAAT', the TATA box. It too is seen at a low frequency in coding regions.
 
-Pretty expected result. The final plot is [kmers_in_genes.png](kmers_in_genes.png), and the main code is [Untitled.ipynb](Untitled.ipynb).
+Pretty expected result. The final plot is [kmers_in_genes.png](kmers_in_genes.png), and the main code is [6-mers.ipynb](6-mers.ipynb).
 
 ![kmers_in_genes.png](kmers_in_genes.png)
